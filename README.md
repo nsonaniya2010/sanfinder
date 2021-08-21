@@ -1,5 +1,5 @@
 # sanfinder
-It finds Subject Alternative Names for a given list of domains
+It finds Subject Alternative Names for a given list of domains. Will not print the provided subdomains in the list.
 
 
 # Example
